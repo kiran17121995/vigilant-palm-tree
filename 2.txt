@@ -1,1 +1,2 @@
 this is my first git website for learngit.
+hi all
