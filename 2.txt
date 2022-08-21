@@ -1,3 +1,0 @@
-i am new here.hi good morning
-i also add the file in .gitignore ..
-a=c
