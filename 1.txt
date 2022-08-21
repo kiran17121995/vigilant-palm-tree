@@ -1,0 +1,3 @@
+hi goood morning.how are you
+a=10
+b=20
