@@ -1,3 +1,3 @@
-this is my first git website for learngit.
+i am new here
 i also add the file in .gitignore ..
 a=b
